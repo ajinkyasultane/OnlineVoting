@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442189625629",
+    "project_id": "onlinevoting-b86f5",
+    "storage_bucket": "onlinevoting-b86f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442189625629:android:ad21b2388319cfc1d149f4",
+        "android_client_info": {
+          "package_name": "com.example.onlinevoting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPq-sD5sMX9HWxOHsfalnvrWwCa2T9Lds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
